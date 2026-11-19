@@ -87,14 +87,7 @@ Download or extract the project folder
 Open the folder in your code editor
 Open any of these files in your browser:
 index.html
-banner.html
-card.html
 
-No installation is required because Tailwind CSS is added through CDN.
-
-Learning Outcomes
-
-By completing this project, a beginner can learn:
 
 how Tailwind CSS works
 how to style elements using utility classes
