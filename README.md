@@ -103,6 +103,7 @@ how to create flex and grid sections
 how to build simple cards and banners
 how to design without writing separate CSS files
 Project Purpose
+hii 
 
 The main goal of this project is to practice Tailwind CSS basics in a simple way.
 It is suitable for students and beginners who want to understand modern front-end styling techniques.
